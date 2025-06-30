@@ -6,3 +6,4 @@ title: Home
 * [Contact](contact)
 * [Work(s)](works) 
 * [Writing(s)](writings)
+  

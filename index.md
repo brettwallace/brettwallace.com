@@ -1,10 +1,8 @@
 ---
 title: "Brett Wallace"
-permlink: /
+permlink: / 
 layout: default
 ---
-
-# Works
 
 [American Union, 2021-present](https://www.americanunionfilm.com/)
 

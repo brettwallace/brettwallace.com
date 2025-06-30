@@ -5,6 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <nav>
+  <ul style="list-style: none; padding: 0;">
+    {% for item in site.data.navigation %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+    
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>

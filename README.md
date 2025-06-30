@@ -7,3 +7,6 @@
 - [Writing(s)](/writings)
 - [Contact](/contact)
 
+This paragraph has some `variable` inline code
+
+! [alt text]

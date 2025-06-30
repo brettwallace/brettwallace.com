@@ -125,10 +125,10 @@ analytics:
 # Site Author
 author:
   name: "Brett Wallace"
-  avatar: "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: # # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an **artist** and **filmmaker**"
   location: "upstate New York, USA"
-  email: ""
+  email: "brett@brettwallace.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

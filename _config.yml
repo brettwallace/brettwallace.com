@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brett
+  name             : "Brett Wallace"
   avatar           : "\assets\images\american-union-film-2021-001-web.jpg"
   bio              : "artist and filmmaker"
   location         : "mountains in New York"
-  email            : brett@brettwallace
+  email            : "brett@brettwallace"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

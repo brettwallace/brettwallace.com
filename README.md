@@ -1,4 +1,4 @@
-## brettwallace.com
+## Brett Wallace
 
 ### artist and filmmaker
 

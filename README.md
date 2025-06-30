@@ -1,6 +1,6 @@
-# brettwallace.com
+## brettwallace.com
 
-## artist and filmmaker
+### artist and filmmaker
 
 - About
 - Work(s)

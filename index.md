@@ -1,12 +1,9 @@
 ---
-title: "Brett Wallace"
-permlink: / 
 layout: default
+title: Home
 ---
-
-[American Union, 2021-present](https://www.americanunionfilm.com/)
-
-[Futures of Work, 2021](https://brettwallace.com/futuresofwork/)
-
-
-
+* [About](about) 
+* [Contact](contact)
+* [Work(s)](works) 
+* [Writing(s)](writings)
+{{ site.time | date: '%d/%m/%y' }}

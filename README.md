@@ -2,9 +2,8 @@
 
 ### artist and filmmaker
 
-- About
-- Work(s)
-- Writing(s)
-- Contact
-- Subscribe
+- [About](/about)
+- [Work(s)](/works)
+- [Writing(s)](/writings)
+- [Contact](/contact)
 

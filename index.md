@@ -6,9 +6,9 @@ layout: default
 
 # Works
 
-[American Union, 2021-present]([https://webdevsimplified.com/markdown-cheat-sheet.html](https://www.americanunionfilm.com/)
+[American Union, 2021-present](https://www.americanunionfilm.com/)
 
-[Futures of Work, 2021]([https://webdevsimplified.com/markdown-cheat-sheet.html](https://brettwallace.com/futuresofwork/)
+[Futures of Work, 2021](https://brettwallace.com/futuresofwork/)
 
 
 

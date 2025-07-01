@@ -6,10 +6,13 @@ email: brett@brettwallace.com
 github repo:  brettwallace.github.io/brettwallace.com/
 ---
 
+'''{css echo = FALSE}
+body {
 
-
-
-
+    background-color: grey;
+    color: black;
+}
+'''
 
 
 

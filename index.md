@@ -8,7 +8,7 @@ author_profile: true
      Add your homepage introduction, hero section, or any custom content below.
 -->
 
-# Welcome to My Website
+Welcome to My Website
 
 This is the homepage. You can add any custom content, images, or sections here.
 

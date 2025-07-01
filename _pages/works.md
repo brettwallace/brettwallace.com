@@ -1,3 +1,9 @@
+---
+title: Works
+permalink: /works/
+---
+
+
 ### American Union, in progress, 2021-present
 [[American Union](docs/assets/american-union-film-2021-001-web.jpg) (https://www.americanunionfilm.com/)
 

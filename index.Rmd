@@ -5,4 +5,4 @@ output: html_document
 email: brett@brettwallace.com
 github repo:  brettwallace.github.io/brettwallace.com/
 ---
-![](images/american-union-film-2021-001-web.jpg)
+![](https://brettwallace.github.io/brettwallace.com/images/american-union-film-2021-001-web.jpg)

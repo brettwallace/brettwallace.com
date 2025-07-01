@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Contact"
- url: /contact/
+url: /contact/
 ---
+
 Please reach out with any questions or inquiries - > brett@brettwallace

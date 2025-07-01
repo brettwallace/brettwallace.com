@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Home"
 url: /home/
 author_profile: true

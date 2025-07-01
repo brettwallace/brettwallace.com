@@ -3,12 +3,25 @@ layout: home
 author_profile: true
 ---
 
-<nav>
-  <ul>
-    {% for page in site.pages %}
-      {% if page.path contains '_pages/' %}
-        <li><a href="{{ page.url }}">{{ page.title | default: page.name }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</nav>
+<!-- Welcome content goes here. 
+     The navigation menu is handled by your site's layout and header. 
+     Add your homepage introduction, hero section, or any custom content below.
+-->
+
+# Welcome to My Website
+
+This is the homepage. You can add any custom content, images, or sections here.
+
+<!-- Example content:
+![Profile picture](/assets/images/profile.jpg)
+
+## About Me
+
+Short introduction...
+
+## Latest Updates
+
+- Project X released!
+- Blog post: "How to Fix Double Menus in Jekyll"
+
+-->

@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Home"
+url: /home/
 author_profile: true
 ---
 

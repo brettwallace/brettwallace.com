@@ -1,6 +1,6 @@
 ---
-title: Works
-permalink: /works/
+title: "Works"
+url: /works/
 ---
 
 
